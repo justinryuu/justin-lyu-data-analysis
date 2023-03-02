@@ -30,6 +30,8 @@ This project explores data look like readable English. Many desktop publishing p
 <br />
 **Subject Areas**:  Subject I, Subject II <br />
 
-
+## COMING SOON!
+1. Unsupervised Natural Language Processing Project
+2. Supervised Machine Learning Project
 
 
