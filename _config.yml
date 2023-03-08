@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Justin Lyu's Data Analytics Portfolio
-logo: images/intro_photo.png
+logo: images/banner.jpg
 description: Thanks for stopping by my data analytics portfolio! Grab a coffee and please browse around the projects that are of interest to you!  <br /> <br /> Feel free to contact me via email! <br /> justinryuu@gmail.com  
 show_downloads: false
 google_analytics: true
