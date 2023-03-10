@@ -21,12 +21,13 @@ Email: justinryuu@gmail.com
 <br />
 
 ## PROJECT OVERVIEWS
-Below is a description and brief overview for each data analytics project!
+Below is a description and brief overview for each data analytics project.
 
-[1. Title](https://github_link.com)<br />
-This project explores data look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<br />
+[1. Optimizing Bike-Share Pricing in Toronto](https://justinryuu.github.io/bike-share-pricing-analysis/)<br />
+This project aims to provide an alternative pricing scheme for the Bike Share Toronto service in a way that would encourage ridership whilst maintaining or improving potential revenues for the service itself. This analysis employs a variety of basic data analysis techniques, such as the examination of summary measures, bootstrap sampling, and the calculation of 95% confidence intervals.
 <br />
-**Subject Areas**: Subject I, Subject II <br />
+<br />
+**Subject Areas**: Data Management, Summary Analysis, Bootstrap Sampling, Confidence Interval Analysis <br />
 <br />
 <br />
 [2. Title](https://github_link.com)<br />
