@@ -1,5 +1,5 @@
 ## ABOUT ME
-Thank you for visting my data analysis portfolio! My name is Justin Lyu, and I am currently in my final semester of my Bachelor of Science program at the University of Toronto, majoring in Economics and minoring in Statistics and Mathematics. 
+Thank you for visting my data science portfolio! My name is Justin Lyu, and I am currently in my final semester of my Bachelor of Science program at the University of Toronto, majoring in Economics and minoring in Statistics and Mathematics. 
 
 This portfolio contains several projects I have worked on which, as a whole, aim to showcase a variety of different techniques and methods of data analysis. Please have a look at whichever projects interest you, and I would be happy to answer any questions about them through my contact information below.
 
