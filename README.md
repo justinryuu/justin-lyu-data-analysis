@@ -1,5 +1,6 @@
 ## ABOUT ME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Thank you for visting my data analysis portfolio. My name is Justin Lyu, and I am currently in my final semester of my Bachelor of Science program at the University of Toronto, majoring in Economics and minoring in Statistics and Mathematics. 
+This portfolio contains several projects I have worked on which, as a whole, aim to showcase a variety of different techniques and methods of data analysis. Please have a look at whichever projects interest you, and I would be happy to answer any questions about them through my contact information below.
 
 Resume/CV: [Justin Lyu's Resume/CV](https://drive.google.com/file/d/1Td0mtj0-hsXpPkrPLJIDG4fgMnF8hWPI/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/justinlyu/](https://www.linkedin.com/in/justinlyu/) <br />
@@ -10,9 +11,11 @@ Email: justinryuu@gmail.com
 
 |        | Topic        | Project           |
 | ------------- |-------------|-------------|
-|1| Project I     | [Title](https://github_link.com) |
-|2| Project II     | [Title](https://github_link.com) |
-|3| Project III     | [Title](https://github_link.com) |
+|1| Data Analysis I  | [Optimizing Bike-Share Pricing in Toronto](https://justinryuu.github.io/bike-share-pricing-analysis/) |
+|2| Data Analysis II  | [Impact of COVID-19 on the Labor Force](https://justinryuu.github.io/covid-labor-force-analysis/) |
+|3| Regression Analysis and Model Building  | [Lifestyle Factors in Global Health](https://justinryuu.github.io/lifestyle-factors-and-global-health-research/) |
+|4| Market Research Analysis  | [New York Workers’ Compensation Market Analysis](https://justinryuu.github.io/Insurance-Market-Research-Analysis/) |
+|5| Forecasting with Non-Representative Data  | [2025 Election Forecast using Non-representative Survey Data](https://justinryuu.github.io/2025-election-forecast/) |
 
 <br />
 
@@ -32,8 +35,5 @@ This project explores data look like readable English. Many desktop publishing p
 <br />
 <br />
 
-## COMING SOON!
-1. Project IV
-2. Project V
 
 
