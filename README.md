@@ -43,5 +43,18 @@ This project is a much more formal analysis on the impact of health-adjacent lif
 **Subject Areas**: Multiple Linear Regression, Model Building and Diagnostics, Variable Selection, Residual Analysis, Goodness of Fit Testing <br />
 <br />
 <br />
-
+[4. New York Workers’ Compensation Market Analysis](https://justinryuu.github.io/Insurance-Market-Research-Analysis/)<br />
+This is a report I developed during my time as a Market Research Data Analyst for an insurance consulting company in New York. The company was seeking information about the workers' compensation and disability insurance market in New York state, and used this report to identify potential entry opportunities and novel insurance products for its clients.
+<br />
+<br />
+**Subject Areas**: Insurance, Data Retrieval and Cleaning, Data Analysis, Regression Analysis, Data Visualization <br />
+<br />
+<br />
+[5. 2025 Election Forecast using Non-representative Survey Data](https://justinryuu.github.io/2025-election-forecast/)<br />
+This project was inspired by a very interesting article written in the [International Journal of Forecasting](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/forecasting-with-nonrepresentative-polls.pdf) that used survey data gathered from users on the Xbox gaming platform to accurately predict the outcome of the 2012 US presidential election. Using similar techniques to those implemented in the article, I was able to use non-representative demographic data from the Canadian census as well as a large-scale phone survey to construct a reasonable prediction for the 2025 Canadian Election outcome.
+<br />
+<br />
+**Subject Areas**: Survey and Demographic Analysis, Forecasting, Non-Representative Data Analysis <br />
+<br />
+<br />
 
