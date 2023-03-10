@@ -3,7 +3,7 @@ Thank you for visting my data analysis portfolio! My name is Justin Lyu, and I a
 
 This portfolio contains several projects I have worked on which, as a whole, aim to showcase a variety of different techniques and methods of data analysis. Please have a look at whichever projects interest you, and I would be happy to answer any questions about them through my contact information below.
 
-Resume/CV: [Justin Lyu's Resume/CV](https://drive.google.com/file/d/1Td0mtj0-hsXpPkrPLJIDG4fgMnF8hWPI/view?usp=sharing) <br />
+Resume/CV: [Justin Lyu's Resume/CV](https://drive.google.com/file/d/1UUICr2fxD8tsouYKi1wKa1Gh2lauKuUt/view?usp=sharing) <br />
 Linkedin: [https://www.linkedin.com/in/justinlyu/](https://www.linkedin.com/in/justinlyu/) <br />
 Email: justinryuu@gmail.com   
 <br />
