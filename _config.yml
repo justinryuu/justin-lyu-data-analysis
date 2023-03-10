@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Justin Lyu's Data Analytics Portfolio
+title: Justin Lyu's Data Analysis Portfolio
 logo: images/banner.jpg
 description: Thanks for stopping by my data analytics portfolio! Grab a coffee and please browse around the projects that are of interest to you!  <br /> <br /> Feel free to contact me via email! <br /> justinryuu@gmail.com  
 show_downloads: false
